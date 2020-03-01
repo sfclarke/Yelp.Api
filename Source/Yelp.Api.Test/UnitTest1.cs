@@ -10,7 +10,7 @@ namespace Yelp.Api.Test
     {
         #region Variables
 
-        private const string API_KEY = "";
+        private const string API_KEY = "Rz9rIZ_WRbik8ksw_zdNGcCtsyzonwcrz2qyGQfpt-N5pzvPujV3FN2La7ZnglTKQb9uUJEfcxWl7QaGO7S8E2JnhbDK6BR6WKIUMpY2wU01Se5G6x9tqmYngC0tXnYx";
 
         private readonly Client _client;
 

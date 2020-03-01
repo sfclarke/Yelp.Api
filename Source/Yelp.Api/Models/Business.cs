@@ -57,7 +57,10 @@ namespace Yelp.Api.Models
 
         [JsonProperty("is_claimed")]
         public bool IsClaimed { get; set; }
-        
+
+        [JsonProperty("transactions")]
+        public string[] Transactions { get; set; }
+
         #endregion
 
         #region Location
